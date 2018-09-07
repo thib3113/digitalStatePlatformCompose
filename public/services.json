@@ -1,0 +1,12 @@
+[
+  {
+    "name":"Admin",
+    "git":"https://github.com/DigitalState/Admin.git",
+    "dockerhub":"DigitalState/Admin"
+  },
+  {
+    "name":"Authentication",
+    "git":"https://github.com/DigitalState/Authentication.git",
+    "dockerhub":"DigitalState/Admin"
+  }
+]
